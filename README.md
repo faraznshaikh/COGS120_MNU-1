@@ -1,2 +1,2 @@
-# Cogs120MNU
-# COGS120_MNU
+# MNU
+Web application that allows users to leave reviews per item
